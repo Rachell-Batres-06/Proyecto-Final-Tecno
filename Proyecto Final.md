@@ -26,8 +26,9 @@ La segunda app que realizamos resuelve las formulas de Hidrostática. la primera
   
 ### Flujo de software
 - **Paso1:** Creamos nuestro proyecto
-- ![Mi Imagen](imagenes/)
-- **Correo Electrónico**
+  ![Mi Imagen](img/1.png)
+- **paso2:** Le damos un nombre y version de android
+   ![Mi Imagen](img/1.png)
 - **Contraseña**
 - **Confirmar Contraseña**
   
