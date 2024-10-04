@@ -16,15 +16,10 @@ Proyecto Final resuelve las formulas de MRU. La primera formula es para encontra
 
 La segunda app que realizamos resuelve las formulas de Hidrostática. la primera formula es para encontrar densidad la cual es, Fuerza / Area, La segunda es encontrar Presion la cual es, masa / Volumen. estas formulas son las que la calculadora podra calcular de una manera muy compacta y facil de comprender para el usuario.
 
- - Calculadora de MRU.
-   ![Mi Imagen](imagenes/1.jpg)
-   
-   - Calculadora de Hodrostática. 
-   ![Mi Imagen](imagenes/2.jpg)
-
 ## Recursos Utilizados
 1. Android Studio.
-2. Visual Code.
+2. Windows 10
+3. Para emularPixwl 7 API35
 
 ### Requisitos Minimos
 - API 26 ("Oreo"; Android 8.0)
