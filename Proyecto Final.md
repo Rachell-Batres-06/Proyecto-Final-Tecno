@@ -1,20 +1,20 @@
 # Manual - Proyecto Final
 
 ## Introducción
-Proyecto Final consiste en una aplicación que consiste en una calculadora en la cual se pueden resolver operaciones del area de fisica fundamental en la cual se pueden resolver formulas facilmente.
+El proyecto final consiste en una aplicación que funciona como una calculadora para resolver operaciones del área de física fundamental, en la cual se pueden resolver fórmulas fácilmente.
 
 ## Objetivos Generales
-- Facilita la realizacion de las operaciones en la calculadora.
--  es mas compacto para el usuario a la hora de utilizarlo.
+- Facilita la realización de las operaciones en la calculadora.
+- Es más compacto para el usuario a la hora de utilizarlo."
 
 ## Objetivos Espesificos
-- Que sea una aplicacion campacta para el usuario.
-- La aplicacion esta creada para poder resolver las formulas del area cientifica.
+-Que sea una aplicación compacta para el usuario.
+-La aplicación está creada para poder resolver las fórmulas del área científica.
 
 ## Descripción del Software
-Proyecto Final resuelve las formulas de MRU. La primera formula es para encontrar la posicion la cual es, posicion inicial + velocidad * tiempo, la segunda es encontrar distancia la cual es, velocidad * tiempo. estas formulas son las que la calculadora podra calcular de una manera muy compacta y facil de utilizar para el usuario. 
+El proyecto final resuelve las fórmulas de MRU. La primera fórmula es para encontrar la posición, que se calcula como posición inicial + velocidad × tiempo. La segunda fórmula permite encontrar la distancia, que es velocidad × tiempo. Estas fórmulas son las que la calculadora podrá calcular de una manera muy compacta y fácil de utilizar para el usuario.
 
-La segunda app que realizamos resuelve las formulas de Hidrostática. la primera formula es para encontrar densidad la cual es, Fuerza / Area, La segunda es encontrar Presion la cual es, masa / Volumen. estas formulas son las que la calculadora podra calcular de una manera muy compacta y facil de comprender para el usuario.
+La segunda aplicación que realizamos resuelve las fórmulas de hidrostática. La primera fórmula es para encontrar la densidad, que se calcula como fuerza / área. La segunda fórmula permite encontrar la presión, que es masa / volumen. Estas fórmulas son las que la calculadora podrá calcular de una manera muy compacta y fácil de comprender para el usuario.
 
 ## Recursos Utilizados
 1. Android Studio.
@@ -34,4 +34,5 @@ La segunda app que realizamos resuelve las formulas de Hidrostática. la primera
    ![Mi Imagen](img/3.png)
    ![Mi Imagen](img/4.png)
 - **Paso4:**Codificacion para darle las funciones a la calculadora de RMU
+   ![Mi Imagen](img/4.png)
   
