@@ -25,7 +25,8 @@ La segunda app que realizamos resuelve las formulas de Hidrostática. la primera
 - API 26 ("Oreo"; Android 8.0)
   
 ### Flujo de software
-- **Paso1:** Creamos nuestro proyecto 
+- **Paso1:** Creamos nuestro proyecto
+- ![Mi Imagen](imagenes/)
 - **Correo Electrónico**
 - **Contraseña**
 - **Confirmar Contraseña**
